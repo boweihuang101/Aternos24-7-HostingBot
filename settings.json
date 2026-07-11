@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "huangbowei.aternos.me",
-    "port": 52033,
+    "ip": "huangbowei13579.aternos.me:25226",
+    "port": 25226,
     "version": "",
     "try-creative": false
   },
