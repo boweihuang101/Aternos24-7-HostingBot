@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "panga.aternos.host:26236",
+    "ip": "huangbowei.aternos.me:26236",
     "port": 26236,
     "version": "",
     "try-creative": false
